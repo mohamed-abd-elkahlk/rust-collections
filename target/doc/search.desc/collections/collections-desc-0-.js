@@ -1,0 +1,1 @@
+searchState.loadedDescShard("collections", 0, "Vectors (vec![T])")

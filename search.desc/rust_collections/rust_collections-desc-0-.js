@@ -1,0 +1,1 @@
+searchState.loadedDescShard("rust_collections", 0, "Vectors (vec![T])")
