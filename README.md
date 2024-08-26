@@ -39,7 +39,7 @@ Each collection comes with code examples that demonstrate common operations:
 
 ## Documentation
 
-The full documentation for this project is available [here](https://your-username.github.io/your-repository-name/).
+The full documentation for this project is available [here](https://mohamed-abd-elkahlk.github.io/rust-collections/collections/).
 
 ## Contributing
 
